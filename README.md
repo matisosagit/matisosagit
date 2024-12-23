@@ -1,6 +1,6 @@
 - 👋 Hola, soy Matias Sosa.
 - 👀 Me gusta mucho la programación.
-- Actualmente desarrollo proyectos personales para mejorar mis conocimientos y cumplir mi sueño de ser programados.
+- Actualmente desarrollo proyectos personales para mejorar mis conocimientos y cumplir mi sueño de ser programador.
 - Soy una persona proactiva y con muchas ganas de aprender!
 
 TECNOLOGÍAS PRINCIPALES:
